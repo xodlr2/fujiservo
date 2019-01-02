@@ -1,0 +1,8 @@
+FujiServo.c:51:13:Send2Driver	88	static
+FujiServo.c:72:6:ServoOn	16	static
+FujiServo.c:80:6:ServoOrigin	16	static
+FujiServo.c:87:6:ServoPositionReset	24	static
+FujiServo.c:98:6:ServoStop	24	static
+FujiServo.c:109:6:ServoLeft	24	static
+FujiServo.c:120:6:ServoRight	24	static
+FujiServo.c:132:6:ServoMove	40	static
